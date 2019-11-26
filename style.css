@@ -1,0 +1,145 @@
+*{
+    margin :0;
+    padding:0;
+}
+
+.logo
+{
+    width:15px;
+    margin-top: 18px;
+}
+
+.header
+{
+    margin-top: 20px;
+    height:10%;
+    padding: 30px;
+}
+
+
+
+.header-btn
+{
+    text-decoration:none;
+    border-radius:30px;
+    padding:7px 20px;
+    float:right;
+    margin-top:15px;
+    color:#f01048;
+    background:#103afd;
+    font-weight:600;
+}
+
+.game-details
+{
+margin :3% 0;
+
+}
+
+.left-box
+{
+    color:#103afd;
+    margin:20px 0;
+    background-color: #fff;
+    padding:20px;
+    box-shadow: -4px 4px 5px 0;
+}
+
+.left-box1
+{
+    color:#bdf094;
+    margin:20px 0;
+    background-color: #fff;
+    padding:20px;
+    box-shadow: -4px 4px 5px 0;
+}
+
+.left-box2
+{
+    color:#f0ea94;
+    margin:20px 0;
+    background-color: #fff;
+    padding:20px;
+    box-shadow: -4px 4px 5px 0;
+}
+
+.casting img 
+{
+    height:200px;
+    width: 300px;
+    position: relative;
+    padding: 20px;;
+    border-radius: 30px;
+}
+.left-box h3
+{
+    margin-left: 15px;
+}
+.left-box1 h3
+{
+    margin-left: 15px;
+}
+.left-box2 h3
+{
+    margin-left: 15px;
+}
+.left-box a
+{
+    text-decoration:none;
+    border-radius:30px;
+    padding:7px 10px;
+    color:#f01048;
+    font-weight:600;
+    align-items: center;
+    display: inline-block;
+    
+    margin-top: 35px; 
+    border:1px solid #f01048;
+    background: transparent;
+}
+
+.left-box1 a
+{
+    text-decoration:none;
+    border-radius:30px;
+    padding:7px 10px;
+    color:#f01048;
+    font-weight:600;
+    align-items: center;
+    display: inline-block;
+    
+    margin-top: 35px; 
+    border:1px solid #f01048;
+    background: transparent;
+}
+
+.left-box2 a
+{
+    text-decoration:none;
+    border-radius:30px;
+    padding:7px 10px;
+    color:#f01048;
+    font-weight:600;
+    align-items: center;
+    display: inline-block;
+    
+    margin-top: 35px; 
+    border:1px solid #f01048;
+    background: transparent;
+}
+
+
+.teams
+{
+    text-align: left;
+    margin-top: 20px;
+    padding:20px;
+   
+}
+
+.row1
+{
+    padding: 15px;
+    background-color: rgb(209, 208, 208);
+    
+}
